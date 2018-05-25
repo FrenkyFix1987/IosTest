@@ -1,5 +1,4 @@
 import cucumber.api.CucumberOptions;
-import cucumber.api.SnippetType;
 import cucumber.api.junit.Cucumber;
 import fraemwork.IosDriver;
 import org.junit.After;
