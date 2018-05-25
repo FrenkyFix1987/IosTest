@@ -7,7 +7,6 @@ import org.openqa.selenium.By;
 public class FirstTestClass extends BasePage{
 
 
-
     @When("opened app settings")
     public void firstTest(){
         getDriver().findElement(By.name("General"));
